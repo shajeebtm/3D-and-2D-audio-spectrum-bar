@@ -31,7 +31,7 @@ Python based 3-Dimension and 2-Dimension audio spectrum bar analyzer
  * Uses pyaudio module to collect audio stream directly from the system where it runs 
  * Makes use of  matplotlib's 3D and Animation libraries
  * Capable of displaying both 2-Dimension and 3-Dimension displays simultaneously
- * 2-Dimesntsion display shows frequency spectrum with amplitude 
+ * 2-Dimension display shows frequency spectrum with amplitude 
  * With 3-Dimensions X-axis displays frequency , Y-axis displays amplitude and Z-axis displays amplitude of the past  samples (time history)
  * Multiprocessing is implemented , one process  works on audio samples analysis and second process works on animating displays
  
