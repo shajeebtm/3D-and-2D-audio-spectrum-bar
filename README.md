@@ -6,6 +6,9 @@ Python based 3-Dimension and 2-Dimension audio spectrum bar analyzer
 </p>
 
 <p align="center">
+  <img src="Images/with_axis_on.png">
+</p>
+<p align="center">
   <img src="Images/light_1.png">
 </p>
 
