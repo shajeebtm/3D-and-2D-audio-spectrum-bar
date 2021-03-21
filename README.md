@@ -5,7 +5,7 @@ Python based 3-Dimension and 2-Dimension audio spectrum bar analyzer
   <img src="Images/dark_1.png">
 </p>
 
-### Screenshot with dark background [line 26]
+### Screenshot with dark background [line 45]
 
 <br>
 <br>
@@ -14,7 +14,7 @@ Python based 3-Dimension and 2-Dimension audio spectrum bar analyzer
   <img src="Images/with_axis_on.png">
 </p>
 
-### Screenshot with all axises visible [line 66]
+### Screenshot with all axises visible [line 85]
 
 <br>
 <br>
@@ -23,7 +23,7 @@ Python based 3-Dimension and 2-Dimension audio spectrum bar analyzer
   <img src="Images/light_1.png">
 </p>
 
-### Screenshot with light background [line 24]
+### Screenshot with light background [line 43]
 
 
 ## Details
